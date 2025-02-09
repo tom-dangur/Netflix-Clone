@@ -1,0 +1,24 @@
+.footer-inner-container {
+	display: flex;
+	justify-content: space-between;
+	width: 60%;
+	margin-inline: auto;
+	color: lightgray;
+}
+.footer-inner-container li {
+	cursor: pointer;
+}
+ul li {
+	line-height: 30px;
+}
+
+.footer-first .footer-icons {
+	display: flex;
+	gap: 28px;
+	margin-bottom: 4px;
+}
+.footer-first .service-code {
+	border: 1px solid gray;
+	padding: 0 10px;
+	margin-bottom: 8px;
+}

@@ -1,0 +1,25 @@
+.header-outer-container {
+	/* background: black; */
+	padding: 16px 0;
+	width: 90%;
+	margin-inline: auto;
+}
+.header-wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	color: lightgray;
+}
+.header-wrapper li {
+	cursor: pointer;
+}
+.header-left ul {
+	display: flex;
+	gap: 20px;
+	align-items: center;
+}
+.header-right ul {
+	display: flex;
+	gap: 20px;
+	align-items: center;
+}
