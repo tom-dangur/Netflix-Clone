@@ -16,40 +16,42 @@ const Footer = () => {
 					</div>
 					<div className="footer-data">
 						<div>
+							<div>
+								<ul>
+									<li>Audio Description</li>
+									<li>Investor Relations</li>
+									<li>legal Notice</li>
+								</ul>
+							</div>
+							<div className="service-code">
+								<span>Service Code</span>
+							</div>
+							<div className="copyright">
+								<span>&copy; 1997-2024 Netflix, Inc.</span>
+							</div>
+						</div>
+						<div>
 							<ul>
-								<li>Audio Description</li>
-								<li>Investor Relations</li>
-								<li>legal Notice</li>
+								<li>Help Center</li>
+								<li>Jobs</li>
+								<li>Cookie Preferences</li>
 							</ul>
 						</div>
-						<div className="service-code">
-							<span>Service Code</span>
+						<div>
+							<ul>
+								<li>Gift Cards</li>
+								<li>Terms of Uses</li>
+								<li>Corporate Informations</li>
+							</ul>
 						</div>
-						<div className="copyright">
-							<span>&copy; 1997-2024 Netflix, Inc.</span>
+						<div>
+							<ul>
+								<li>Media center</li>
+								<li>Privacy</li>
+								<li>Contact Us</li>
+							</ul>
 						</div>
 					</div>
-				</div>
-				<div>
-					<ul>
-						<li>Help Center</li>
-						<li>Jobs</li>
-						<li>Cookie Preferences</li>
-					</ul>
-				</div>
-				<div>
-					<ul>
-						<li>Gift Cards</li>
-						<li>Terms of Uses</li>
-						<li>Corporate Informations</li>
-					</ul>
-				</div>
-				<div>
-					<ul>
-						<li>Media center</li>
-						<li>Privacy</li>
-						<li>Contact Us</li>
-					</ul>
 				</div>
 			</div>
 		</div>

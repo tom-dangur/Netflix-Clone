@@ -1,9 +1,8 @@
 .footer-inner-container {
-	display: flex;
-	justify-content: space-between;
 	width: 60%;
 	margin-inline: auto;
 	color: lightgray;
+	margin-bottom: 4px;
 }
 .footer-inner-container li {
 	cursor: pointer;
@@ -15,10 +14,15 @@ ul li {
 .footer-first .footer-icons {
 	display: flex;
 	gap: 28px;
-	margin-bottom: 4px;
+	margin-bottom: 8px;
 }
 .footer-first .service-code {
 	border: 1px solid gray;
 	padding: 0 10px;
 	margin-bottom: 8px;
+}
+.footer-data {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
 }
